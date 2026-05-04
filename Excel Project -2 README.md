@@ -1,18 +1,18 @@
-# ☕ Coffee Sales Analysis (Excel Project)
+# 📊 Sales Data Analysis (Excel Project)
 
 ## 📌 Overview
-This project analyzes sales data from a coffee shop to identify trends in customer purchases, product performance, and overall business revenue. The goal is to derive insights that can help improve sales strategies and operational efficiency.
+This project analyzes transactional sales data to evaluate product performance, sales trends, and overall business activity. The goal is to generate insights that support better decision-making and operational improvements.
+
 
 ---
 
 -<a href="https://github.com/Zeeshankhan-10/Excel-Projects-Hub/blob/main/Excel%20Project%20-%202.xlsx">Dataset View</a>
 
 ## 🎯 Objective
-- Analyze sales performance across products and categories  
-- Identify top-performing items and peak sales periods  
-- Understand customer purchasing patterns  
-- Support data-driven decision-making  
-
+- Analyze sales performance across products  
+- Identify top-selling items and revenue contributors  
+- Understand purchasing patterns  
+- Evaluate overall sales trends  
 ---
 
 ## 🛠️ Tools Used
@@ -25,12 +25,12 @@ This project analyzes sales data from a coffee shop to identify trends in custom
 
 ## 📊 Dataset
 The dataset includes:
-- Order Date & Time  
-- Product Category  
+- Order/Transaction ID  
 - Product Name  
-- Quantity Sold  
-- Revenue / Sales  
-- Store Location  
+- Quantity  
+- Price / Sales Value  
+- Category 
+- Date  
 
 ---
 
@@ -43,11 +43,10 @@ The dataset includes:
 ---
 
 ## 📈 Key Insights
-- Certain products consistently generated the highest revenue  
-- Sales peaked during specific times of the day  
-- Some product categories outperformed others significantly  
-- Customer buying patterns varied based on time and location  
-
+- A small number of products contributed to a large portion of total sales  
+- Sales distribution varied across different products  
+- Certain items consistently performed better than others  
+- Quantity sold directly influenced revenue trends
 ---
 
 ## ✅ Conclusion
